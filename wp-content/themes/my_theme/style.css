@@ -1,0 +1,17 @@
+/*
+
+	Theme Name: My-site-TEST
+	Template: illustator
+	
+
+*/
+
+@import url('../illustator/style.css');
+
+#masthead > h1 > a:after {
+	content: "";
+	width: 100%;
+	display: block;
+	height: 1px;
+	background: #000;
+}
